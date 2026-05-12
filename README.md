@@ -12,3 +12,10 @@ Primeiro repositório de estudos Git e GitHub
 - CSS
 - JavaScript
 - Python
+
+## Comandos aprendidos
+- git init
+- git status
+- git add
+- git commit
+- git log
