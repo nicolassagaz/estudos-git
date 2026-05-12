@@ -6,3 +6,9 @@ Primeiro repositório de estudos Git e GitHub
 - Aprender Git
 - Aprender GitHub
 - Construir portfólio dev
+
+## Tecnologias futuras
+- HTML
+- CSS
+- JavaScript
+- Python
