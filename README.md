@@ -21,3 +21,10 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - git add
 - git commit
 - git log
+
+## Progesso atual
+
+Estudando:
+- Branches
+- Fluxo de versionamento
+- Documentação
