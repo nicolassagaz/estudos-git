@@ -1,13 +1,15 @@
 # Estudos Git
 
-Primeiro repositório de estudos Git e GitHub
+Repositório criado para documentar minha transição de suporte técnico para desenvolvedor de software
 
 ## Objetivos
-- Aprender Git
-- Aprender GitHub
-- Construir portfólio dev
+- Aprender Git e GitHub
+- Construir base sólida em desenvolvimento
+- Criar projetos para portfólio
+-Evoluir para atuação como desenvolvedor
 
 ## Tecnologias futuras
+- GIT/GitHub
 - HTML
 - CSS
 - JavaScript
