@@ -33,3 +33,7 @@ Atualmente estudando:
 - Aprender merge
 - Conectar ao GitHub
 - Publicar repositório online
+
+## Repositório online
+
+Projeto publicado no GitHub para documentar evolução nos estudos de desenvolvimento.
