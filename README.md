@@ -24,7 +24,12 @@ Repositório criado para documentar minha transição de suporte técnico para d
 
 ## Progesso atual
 
-Estudando:
+Atualmente estudando:
 - Branches
 - Fluxo de versionamento
 - Documentação
+
+## Próximos passos
+- Aprender merge
+- Conectar ao GitHub
+- Publicar repositório online
