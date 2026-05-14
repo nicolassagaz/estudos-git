@@ -48,7 +48,7 @@ Atualmente estudando:
 - `git push` (envia alterações ao GitHub)
 
 ## Próximos passos
-- Aprender Pull Requests
+- Aprendendo Pull Requests
 - Melhorar documentação
 - Iniciar HTML/CSS
 - Criar primeiros projetos web
