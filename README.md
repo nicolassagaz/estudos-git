@@ -1,6 +1,6 @@
-# Estudos Git
+# Estudos Git e GitHub
 
-Repositório criado para documentar minha transição de suporte técnico para desenvolvedor de software
+Repositório criado para documentar minha transição de Suporte Técnico em TI para desenvolvedor de software.
 
 ## Objetivos
 - Aprender Git e GitHub
@@ -8,14 +8,14 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - Criar projetos para portfólio
 - Evoluir para atuação como desenvolvedor
 
-## Tecnologias futuras
-- GIT/GitHub
+## Tecnologias em aprendizado
+- Git/GitHub
 - HTML
 - CSS
 - JavaScript
 - Python
 
-## Progesso atual
+## Progresso atual
 
 Atualmente estudando:
 - Branches
@@ -23,6 +23,7 @@ Atualmente estudando:
 - GitHub remoto
 - Pull Requests
 - Fluxo profissional Git/GitHub
+- Organização de documentação técnica
 
 ## Comandos aprendidos
 
@@ -46,9 +47,22 @@ Atualmente estudando:
 ### GitHub remoto
 - `git remote` (gerencia repositórios remotos)
 - `git push` (envia alterações ao GitHub)
+- `git pull` (atualiza repositório local)
+
+### Organização
+- Pull Requests
+- Merge pelo GitHub
 
 ## Próximos passos
-- Aprendendo Pull Requests
-- Melhorar documentação
+- Aprender `.gitignore`
+- Melhorar estrutura de projetos
 - Iniciar HTML/CSS
-- Criar primeiros projetos web
+- Criar projetos web
+- Estudar JavaScript
+- Iniciar backend com Python
+
+## Projetos futuros
+- Sistemas de chamados
+- API REST
+- Dashboard administrativo
+- Portfólio pessoal
