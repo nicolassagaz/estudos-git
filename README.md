@@ -66,3 +66,13 @@ Atualmente estudando:
 - API REST
 - Dashboard administrativo
 - Portfólio pessoal
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+venv/
+
+# Windows
+Thumbs.db
