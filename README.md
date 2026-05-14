@@ -21,22 +21,22 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - `git init` (cria repositório Git)
 
 ### Inspeção
-- git status (mostra o estado atual)
-- git log (mostra o histórico)
-- git diff (mostra alterações antes do commit)
+- `git status` (mostra o estado atual)
+- `git log` (mostra o histórico)
+- `git diff` (mostra alterações antes do commit)
 
 ### Versionamento
-- git add (adiciona ao staging)
-- git commit (cria ponto no histórico)
+- `git add` (adiciona ao staging)
+- `git commit` (cria ponto no histórico)
 
 ### Branches
-- git branch (lista e cria branches)
-- git switch (troca de branch)
-- git merge (une branches)
+- `git branch` (lista e cria branches)
+- `git switch` (troca de branch)
+- `git merge` (une branches)
 
 ### GitHub remoto
-- git remote (gerencia repositórios remotos)
-- git push (envia alterações ao GitHub)
+- `git remote` (gerencia repositórios remotos)
+- `git push` (envia alterações ao GitHub)
 
 ## Progesso atual
 
