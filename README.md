@@ -6,7 +6,7 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - Aprender Git e GitHub
 - Construir base sólida em desenvolvimento
 - Criar projetos para portfólio
--Evoluir para atuação como desenvolvedor
+- Evoluir para atuação como desenvolvedor
 
 ## Tecnologias futuras
 - GIT/GitHub
@@ -14,6 +14,15 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - CSS
 - JavaScript
 - Python
+
+## Progesso atual
+
+Atualmente estudando:
+- Branches
+- Merge
+- GitHub remoto
+- Pull Requests
+- Fluxo profissional Git/GitHub
 
 ## Comandos aprendidos
 
@@ -38,18 +47,8 @@ Repositório criado para documentar minha transição de suporte técnico para d
 - `git remote` (gerencia repositórios remotos)
 - `git push` (envia alterações ao GitHub)
 
-## Progesso atual
-
-Atualmente estudando:
-- Branches
-- Fluxo de versionamento
-- Documentação
-
 ## Próximos passos
-- Aprender merge
-- Conectar ao GitHub
-- Publicar repositório online
-
-## Repositório online
-
-Projeto publicado no GitHub para documentar evolução nos estudos de desenvolvimento.
+- Aprender Pull Requests
+- Melhorar documentação
+- Iniciar HTML/CSS
+- Criar primeiros projetos web
