@@ -1,4 +1,4 @@
-# Estudos Git e GitHub
+# Jornada de Estudos - Git e GitHub
 
 Repositório criado para documentar minha transição de Suporte Técnico em TI para desenvolvedor de software.
 
@@ -23,7 +23,10 @@ Atualmente estudando:
 - GitHub remoto
 - Pull Requests
 - Fluxo profissional Git/GitHub
+- Conventional Commits
+- Versionamento de projetos frontend
 - Organização de documentação técnica
+- Integração Git + projetos reais
 
 ## Comandos aprendidos
 
@@ -45,6 +48,7 @@ Atualmente estudando:
 - `git merge` (une branches)
 
 ### GitHub remoto
+- `git clone` (clona repositórios)
 - `git remote` (gerencia repositórios remotos)
 - `git push` (envia alterações ao GitHub)
 - `git pull` (atualiza repositório local)
@@ -54,12 +58,12 @@ Atualmente estudando:
 - Merge pelo GitHub
 
 ## Próximos passos
-- Aprender `.gitignore`
-- Melhorar estrutura de projetos
-- Iniciar HTML/CSS
-- Criar projetos web
-- Estudar JavaScript
-- Iniciar backend com Python
+- Aprender JavaScript moderno
+- Consumir APIs REST
+- Desenvolver backend com Python
+- Criar projetos completos
+- Construir portfólio profissional
+- Evoluir para aplicações full stack
 
 ## Projetos futuros
 - Sistemas de chamados
@@ -67,12 +71,21 @@ Atualmente estudando:
 - Dashboard administrativo
 - Portfólio pessoal
 
-# VS Code
-.vscode/
+## Arquivos ignorados com .gitignore
 
-# Python
-__pycache__/
-venv/
+Durante os estudos também aprendi a utilizar `.gitignore` para evitar o versionamento de arquivos desnecessários, como:
 
-# Windows
-Thumbs.db
+- `.vscode/`
+- `venv/`
+- `__pycache__/`
+- `Thumbs.db`
+
+## Experiência prática adquirida
+
+Durante os estudos já utilizei Git/GitHub para:
+- Criar projetos versionados
+- Organizar commits profissionais
+- Trabalhar com branches
+- Publicar projetos frontend
+- Atualizar documentação técnica
+- Simular fluxo de desenvolvimento real
